@@ -67,7 +67,7 @@ class Decimal:
         print("Octal:", self.to_octal())
         print("Hexadecimal:", self.to_hexa_decimal())
 
-# Usage
-decimal_input = input("Enter a decimal number: ")
-decimal_number = Decimal(decimal_input)
-decimal_number.print_conversions()
+# # Usage
+# decimal_input = input("Enter a decimal number: ")
+# decimal_number = Decimal(decimal_input)
+# decimal_number.print_conversions()
