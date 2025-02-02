@@ -34,7 +34,7 @@ class Hexadecimal:
         print("Octal:", self.to_octal())
 
 
-hexa_decimal_input = input("Enter a decimal number: ")
-hexa_decimal_number = Hexadecimal(hexa_decimal_input)
-hexa_decimal_number.print_conversions()
+# hexa_decimal_input = input("Enter a decimal number: ")
+# hexa_decimal_number = Hexadecimal(hexa_decimal_input)
+# hexa_decimal_number.print_conversions()
 
