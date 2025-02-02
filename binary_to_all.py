@@ -41,11 +41,11 @@ class Binary:
         print("Octal:", self.to_octal())
         print("Hexadecimal:", self.to_hexadecimal())
 
-while True:
-    binary_input = input("Enter binary number: ")
-    if all(char in '01' for char in binary_input):
-        break
-    print("Invalid input. Please enter a binary number containing only 0 and 1.")
+# while True:
+#     binary_input = input("Enter binary number: ")
+#     if all(char in '01' for char in binary_input):
+#         break
+#     print("Invalid input. Please enter a binary number containing only 0 and 1.")
 
-binary_number = Binary(binary_input)
-binary_number.print_conversion()
+# binary_number = Binary(binary_input)
+# binary_number.print_conversion()
