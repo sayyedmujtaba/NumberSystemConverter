@@ -43,5 +43,5 @@ while True:
         break
     print("Invalid input. Please enter numbers between 0 and 7.")
 
-octal_number = Octal(octal_input)
-octal_number.print_conversion()
+# octal_number = Octal(octal_input)
+# octal_number.print_conversion()
